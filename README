@@ -1,0 +1,6 @@
+Describe the data contained in the API response. What can we discern about the weather in the specified city?
+1. the data about the weather gives the same result as if we were to use the openweather website. it contains all the
+kinds of data you would receive in a weather report.
+How would we obtain the temperature in the specified city? Describe using Python dictionary syntax.
+we receive the data as a json object and then we would give the key of main, and to navigate through the data, we must
+supply the temp key which would give us the temp or temperature in
